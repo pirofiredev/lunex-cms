@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17f6ffc1-dacd-48da-aa5e-3275a619091b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/_contributing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/_sections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/advanced-full-text-search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/advanced-jsonb-indexing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/conn-idle-timeout.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/conn-limits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/conn-pooling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/conn-prepared-statements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/data-batch-inserts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/data-n-plus-one.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/data-pagination.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/data-upsert.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/lock-advisory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/lock-deadlock-prevention.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/lock-short-transactions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/lock-skip-locked.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/monitor-explain-analyze.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/monitor-pg-stat-statements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/monitor-vacuum-analyze.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/query-composite-indexes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/query-covering-indexes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/query-index-types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/query-missing-indexes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/query-partial-indexes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-constraints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-data-types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-foreign-key-indexes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-lowercase-identifiers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-partitioning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/schema-primary-keys.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/security-privileges.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/security-rls-basics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase-postgres-best-practices/references/security-rls-performance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase/assets/feedback-issue-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.agents/skills/supabase/references/skill-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skills-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/0e424fa9-6dc9-435d-9aa2-318c28aeca5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/0e424fa9-6dc9-435d-9aa2-318c28aeca5e__0366e4a26751d6441c5a32a92e84c1ef86bc0488.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/0e424fa9-6dc9-435d-9aa2-318c28aeca5e__7abd30a2f63f675625d6888e2ed9d65992751e3c.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/13127c21-c6b7-4699-bee0-5b720b369278.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/13127c21-c6b7-4699-bee0-5b720b369278__0366e4a26751d6441c5a32a92e84c1ef86bc0488.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/13127c21-c6b7-4699-bee0-5b720b369278__7abd30a2f63f675625d6888e2ed9d65992751e3c.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/5f4a682a-5411-4c35-b81a-88bc74624be8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/5f4a682a-5411-4c35-b81a-88bc74624be8__0366e4a26751d6441c5a32a92e84c1ef86bc0488.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/5f4a682a-5411-4c35-b81a-88bc74624be8__7abd30a2f63f675625d6888e2ed9d65992751e3c.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/b53f1429-eeba-4bb2-81ca-2a768702cbe0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/b53f1429-eeba-4bb2-81ca-2a768702cbe0__7abd30a2f63f675625d6888e2ed9d65992751e3c.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/b53f1429-eeba-4bb2-81ca-2a768702cbe0__a8bb68ee0e1d32a0c80e909bed312dcd4bf752fc.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I0BhIawSi6IDnIowvc4RZY1X6l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "stable",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/pirodev/Projects/lunex/lunex",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f6ffc1-dacd-48da-aa5e-3275a619091b" name="Changes" comment="" />
+      <created>1786891722380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786891722380</updated>
+      <workItem from="1786891723420" duration="2657000" />
+      <workItem from="1786963923904" duration="7128000" />
+      <workItem from="1786994593459" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

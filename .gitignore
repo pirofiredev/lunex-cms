@@ -1,60 +1,48 @@
-# User preferences
-.DS_Store
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
 
 # Dependencies
 node_modules/
+vendor/
 
-# Builds / Caches
+# Build outputs
 dist/
-coverage/
-*.tsbuildinfo
-**/.vitepress/cache/
-**/.vitepress/.temp/
-.eslintcache
-.stylelintcache
+build/
+*.log
 
-# Dotenv configs
-.env
-.env.*
+# Database
+data/
+*.sql
+*.db
+*.sqlite
 
-# Logs
-npm-debug.log
-debug
-.clinic
+# Uploads and media
+uploads/
 
-# IDEs / Editors
-.devcontainer/
-.vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json
-.idea/
-*.code-workspace
-.history/
-*.sublime-settings
-.*.swp
+# Docker
+docker-compose.override.yml
 
-# Environments / Workspaces
-.gitpod.yml
-.netlify
+# Backups
+oldbackups/
+backup*.sql
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent skills
+.agents/
+skills-lock.json
 
 # Temporary files
-TODO
-
-# Directus
-*.db
-/schema.yaml
-/schema.json
-/api/uploads/
-/api/extensions/
-/tests/blackbox/uploads/
-/tests/blackbox/server-log-*
-/tests/blackbox/sequencer-data.json
-/packages/extensions-sdk/temp-extension-*/
-
-# AI
-.claude/*
-!.claude/CLAUDE.md
-!.claude/settings.json
-!.claude/hooks/
-!.claude/skills/
-.devtools/
+*.tmp
+*.temp
